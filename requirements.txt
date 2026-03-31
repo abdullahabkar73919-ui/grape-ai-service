@@ -1,6 +1,7 @@
-ultralytics
 torch
-opencv-python
+torchvision
+ultralytics
 fastapi
 uvicorn
-numpy
+python-multipart
+opencv-python-headless
